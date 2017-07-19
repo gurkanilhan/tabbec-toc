@@ -6,7 +6,7 @@
  */
 
 var tabbedTOC_defaults = {
-	blogUrl: "http://www.dte.web.id", // Blog URL
+	blogUrl: "http://www.networkgalaxy.org", // Blog URL
 	containerId: "tabbed-toc", // Container ID
 	activeTab: 1, // The default active tab index (default: the first tab)
 	showDates: false, // true to show the post date
