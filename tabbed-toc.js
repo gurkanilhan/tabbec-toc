@@ -1,32 +1,3 @@
-blogger-toc.js
-DETAILS
-ACTIVITY
-blogger-toc.js
-Sharing Info
-Not shared
-General Info
-Type
-Javascript
-Size
-6 KB (6,570 bytes)
-Storage used
-6 KB (6,570 bytes)
-Location
-0B38Pv-UH1dg-MGNfNnB0Yjc2SFU
-Owner
-me
-Modified
-Aug 13, 2013 by me
-Opened
-10:58 AM by me
-Created
-Jul 6, 2016
-Description
-Add a description
-Download permissions
-Viewers can download
-Closed All selections cleared All selections cleared All selections cleared 
-
 /**
  * Blogger Tabbed Style Table of Content Widget by Taufik Nurrohman
  * Free for change but keep the original attribution.
